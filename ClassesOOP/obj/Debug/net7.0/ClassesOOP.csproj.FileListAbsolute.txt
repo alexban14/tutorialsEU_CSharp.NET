@@ -1,0 +1,14 @@
+E:\BanAlexandru\tutorialsEU\FullCourse_C#10-NET6\ClassesOOP\obj\Debug\net7.0\ClassesOOP.GeneratedMSBuildEditorConfig.editorconfig
+E:\BanAlexandru\tutorialsEU\FullCourse_C#10-NET6\ClassesOOP\obj\Debug\net7.0\ClassesOOP.AssemblyInfoInputs.cache
+E:\BanAlexandru\tutorialsEU\FullCourse_C#10-NET6\ClassesOOP\obj\Debug\net7.0\ClassesOOP.AssemblyInfo.cs
+E:\BanAlexandru\tutorialsEU\FullCourse_C#10-NET6\ClassesOOP\obj\Debug\net7.0\ClassesOOP.csproj.CoreCompileInputs.cache
+E:\BanAlexandru\tutorialsEU\FullCourse_C#10-NET6\ClassesOOP\bin\Debug\net7.0\ClassesOOP.exe
+E:\BanAlexandru\tutorialsEU\FullCourse_C#10-NET6\ClassesOOP\bin\Debug\net7.0\ClassesOOP.deps.json
+E:\BanAlexandru\tutorialsEU\FullCourse_C#10-NET6\ClassesOOP\bin\Debug\net7.0\ClassesOOP.runtimeconfig.json
+E:\BanAlexandru\tutorialsEU\FullCourse_C#10-NET6\ClassesOOP\bin\Debug\net7.0\ClassesOOP.dll
+E:\BanAlexandru\tutorialsEU\FullCourse_C#10-NET6\ClassesOOP\bin\Debug\net7.0\ClassesOOP.pdb
+E:\BanAlexandru\tutorialsEU\FullCourse_C#10-NET6\ClassesOOP\obj\Debug\net7.0\ClassesOOP.dll
+E:\BanAlexandru\tutorialsEU\FullCourse_C#10-NET6\ClassesOOP\obj\Debug\net7.0\refint\ClassesOOP.dll
+E:\BanAlexandru\tutorialsEU\FullCourse_C#10-NET6\ClassesOOP\obj\Debug\net7.0\ClassesOOP.pdb
+E:\BanAlexandru\tutorialsEU\FullCourse_C#10-NET6\ClassesOOP\obj\Debug\net7.0\ClassesOOP.genruntimeconfig.cache
+E:\BanAlexandru\tutorialsEU\FullCourse_C#10-NET6\ClassesOOP\obj\Debug\net7.0\ref\ClassesOOP.dll

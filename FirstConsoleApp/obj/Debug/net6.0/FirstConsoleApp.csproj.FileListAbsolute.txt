@@ -1,0 +1,14 @@
+E:\BanAlexandru\tutorialsEU\FullCourse_C#10-NET6\FirstConsoleApp\bin\Debug\net6.0\FirstConsoleApp.exe
+E:\BanAlexandru\tutorialsEU\FullCourse_C#10-NET6\FirstConsoleApp\bin\Debug\net6.0\FirstConsoleApp.deps.json
+E:\BanAlexandru\tutorialsEU\FullCourse_C#10-NET6\FirstConsoleApp\bin\Debug\net6.0\FirstConsoleApp.runtimeconfig.json
+E:\BanAlexandru\tutorialsEU\FullCourse_C#10-NET6\FirstConsoleApp\bin\Debug\net6.0\FirstConsoleApp.dll
+E:\BanAlexandru\tutorialsEU\FullCourse_C#10-NET6\FirstConsoleApp\bin\Debug\net6.0\FirstConsoleApp.pdb
+E:\BanAlexandru\tutorialsEU\FullCourse_C#10-NET6\FirstConsoleApp\obj\Debug\net6.0\FirstConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\BanAlexandru\tutorialsEU\FullCourse_C#10-NET6\FirstConsoleApp\obj\Debug\net6.0\FirstConsoleApp.AssemblyInfoInputs.cache
+E:\BanAlexandru\tutorialsEU\FullCourse_C#10-NET6\FirstConsoleApp\obj\Debug\net6.0\FirstConsoleApp.AssemblyInfo.cs
+E:\BanAlexandru\tutorialsEU\FullCourse_C#10-NET6\FirstConsoleApp\obj\Debug\net6.0\FirstConsoleApp.csproj.CoreCompileInputs.cache
+E:\BanAlexandru\tutorialsEU\FullCourse_C#10-NET6\FirstConsoleApp\obj\Debug\net6.0\FirstConsoleApp.dll
+E:\BanAlexandru\tutorialsEU\FullCourse_C#10-NET6\FirstConsoleApp\obj\Debug\net6.0\refint\FirstConsoleApp.dll
+E:\BanAlexandru\tutorialsEU\FullCourse_C#10-NET6\FirstConsoleApp\obj\Debug\net6.0\FirstConsoleApp.pdb
+E:\BanAlexandru\tutorialsEU\FullCourse_C#10-NET6\FirstConsoleApp\obj\Debug\net6.0\FirstConsoleApp.genruntimeconfig.cache
+E:\BanAlexandru\tutorialsEU\FullCourse_C#10-NET6\FirstConsoleApp\obj\Debug\net6.0\ref\FirstConsoleApp.dll

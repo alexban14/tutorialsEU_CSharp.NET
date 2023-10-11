@@ -1,0 +1,14 @@
+E:\BanAlexandru\tutorialsEU\FullCourse_C#10-NET6\UserInput\bin\Debug\net7.0\UserInput.exe
+E:\BanAlexandru\tutorialsEU\FullCourse_C#10-NET6\UserInput\bin\Debug\net7.0\UserInput.deps.json
+E:\BanAlexandru\tutorialsEU\FullCourse_C#10-NET6\UserInput\bin\Debug\net7.0\UserInput.runtimeconfig.json
+E:\BanAlexandru\tutorialsEU\FullCourse_C#10-NET6\UserInput\bin\Debug\net7.0\UserInput.dll
+E:\BanAlexandru\tutorialsEU\FullCourse_C#10-NET6\UserInput\bin\Debug\net7.0\UserInput.pdb
+E:\BanAlexandru\tutorialsEU\FullCourse_C#10-NET6\UserInput\obj\Debug\net7.0\UserInput.GeneratedMSBuildEditorConfig.editorconfig
+E:\BanAlexandru\tutorialsEU\FullCourse_C#10-NET6\UserInput\obj\Debug\net7.0\UserInput.AssemblyInfoInputs.cache
+E:\BanAlexandru\tutorialsEU\FullCourse_C#10-NET6\UserInput\obj\Debug\net7.0\UserInput.AssemblyInfo.cs
+E:\BanAlexandru\tutorialsEU\FullCourse_C#10-NET6\UserInput\obj\Debug\net7.0\UserInput.csproj.CoreCompileInputs.cache
+E:\BanAlexandru\tutorialsEU\FullCourse_C#10-NET6\UserInput\obj\Debug\net7.0\UserInput.dll
+E:\BanAlexandru\tutorialsEU\FullCourse_C#10-NET6\UserInput\obj\Debug\net7.0\refint\UserInput.dll
+E:\BanAlexandru\tutorialsEU\FullCourse_C#10-NET6\UserInput\obj\Debug\net7.0\UserInput.pdb
+E:\BanAlexandru\tutorialsEU\FullCourse_C#10-NET6\UserInput\obj\Debug\net7.0\UserInput.genruntimeconfig.cache
+E:\BanAlexandru\tutorialsEU\FullCourse_C#10-NET6\UserInput\obj\Debug\net7.0\ref\UserInput.dll

@@ -1,0 +1,14 @@
+E:\BanAlexandru\tutorialsEU\FullCourse_C#10-NET6\CheckTempApp\obj\Debug\net7.0\CheckTempApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\BanAlexandru\tutorialsEU\FullCourse_C#10-NET6\CheckTempApp\obj\Debug\net7.0\CheckTempApp.AssemblyInfoInputs.cache
+E:\BanAlexandru\tutorialsEU\FullCourse_C#10-NET6\CheckTempApp\obj\Debug\net7.0\CheckTempApp.AssemblyInfo.cs
+E:\BanAlexandru\tutorialsEU\FullCourse_C#10-NET6\CheckTempApp\obj\Debug\net7.0\CheckTempApp.csproj.CoreCompileInputs.cache
+E:\BanAlexandru\tutorialsEU\FullCourse_C#10-NET6\CheckTempApp\bin\Debug\net7.0\CheckTempApp.exe
+E:\BanAlexandru\tutorialsEU\FullCourse_C#10-NET6\CheckTempApp\bin\Debug\net7.0\CheckTempApp.deps.json
+E:\BanAlexandru\tutorialsEU\FullCourse_C#10-NET6\CheckTempApp\bin\Debug\net7.0\CheckTempApp.runtimeconfig.json
+E:\BanAlexandru\tutorialsEU\FullCourse_C#10-NET6\CheckTempApp\bin\Debug\net7.0\CheckTempApp.dll
+E:\BanAlexandru\tutorialsEU\FullCourse_C#10-NET6\CheckTempApp\bin\Debug\net7.0\CheckTempApp.pdb
+E:\BanAlexandru\tutorialsEU\FullCourse_C#10-NET6\CheckTempApp\obj\Debug\net7.0\CheckTempApp.dll
+E:\BanAlexandru\tutorialsEU\FullCourse_C#10-NET6\CheckTempApp\obj\Debug\net7.0\refint\CheckTempApp.dll
+E:\BanAlexandru\tutorialsEU\FullCourse_C#10-NET6\CheckTempApp\obj\Debug\net7.0\CheckTempApp.pdb
+E:\BanAlexandru\tutorialsEU\FullCourse_C#10-NET6\CheckTempApp\obj\Debug\net7.0\CheckTempApp.genruntimeconfig.cache
+E:\BanAlexandru\tutorialsEU\FullCourse_C#10-NET6\CheckTempApp\obj\Debug\net7.0\ref\CheckTempApp.dll
