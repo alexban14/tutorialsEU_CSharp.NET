@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\BanAlexandru\\tutorialsEU\\FullCourse_C#10-NET6\\ClassesOOP\\ClassesOOP.csproj": {}
+    "e:\\BanAlexandru\\tutorialsEU\\FullCourse_C#10-NET6\\ClassesOOP\\ClassesOOP.csproj": {}
   },
   "projects": {
-    "E:\\BanAlexandru\\tutorialsEU\\FullCourse_C#10-NET6\\ClassesOOP\\ClassesOOP.csproj": {
+    "e:\\BanAlexandru\\tutorialsEU\\FullCourse_C#10-NET6\\ClassesOOP\\ClassesOOP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\BanAlexandru\\tutorialsEU\\FullCourse_C#10-NET6\\ClassesOOP\\ClassesOOP.csproj",
+        "projectUniqueName": "e:\\BanAlexandru\\tutorialsEU\\FullCourse_C#10-NET6\\ClassesOOP\\ClassesOOP.csproj",
         "projectName": "ClassesOOP",
-        "projectPath": "E:\\BanAlexandru\\tutorialsEU\\FullCourse_C#10-NET6\\ClassesOOP\\ClassesOOP.csproj",
+        "projectPath": "e:\\BanAlexandru\\tutorialsEU\\FullCourse_C#10-NET6\\ClassesOOP\\ClassesOOP.csproj",
         "packagesPath": "C:\\Users\\banco\\.nuget\\packages\\",
-        "outputPath": "E:\\BanAlexandru\\tutorialsEU\\FullCourse_C#10-NET6\\ClassesOOP\\obj\\",
+        "outputPath": "e:\\BanAlexandru\\tutorialsEU\\FullCourse_C#10-NET6\\ClassesOOP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\banco\\AppData\\Roaming\\NuGet\\NuGet.Config",
